@@ -1,5 +1,8 @@
+:root {
+    background-color: rgb(26, 123, 50);
+}
+
 body {
-    background-color: #195700;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,8 +10,8 @@ body {
     margin: 0;
 }
 
-h1 {
-    font-family: "Edu AU VIC WA NT Dots", cursive;
-    color: rgb(208, 132, 157);
-    text-align: center;
+.titulo {
+    font-family: 'Edu AU VIC WA NT Dots', cursive;
+    color: rgb(242, 138, 155);
+    text-align: center; 
 }
