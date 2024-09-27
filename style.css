@@ -1,8 +1,5 @@
-:root {
-    background-color: rgb(26, 123, 50);
-}
-
 body {
+    background-color: rgb(38, 126, 22);
     display: flex;
     justify-content: center;
     align-items: center;
