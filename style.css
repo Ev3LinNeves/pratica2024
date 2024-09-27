@@ -7,6 +7,7 @@ body {
 }
 
 .titulo {
-    font-family: 'Edu AU VIC WA NT Dots', cursive; /* Aplicando a nova fonte */
+    font-family: 'Edu AU VIC WA NT Dots', cursive; 
     color: pink;
+    text-align: center;
 }
