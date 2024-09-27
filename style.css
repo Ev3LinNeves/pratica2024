@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-.titulo {
+h1 {
     font-family: "Edu AU VIC WA NT Dots", cursive;
     color: pink;
     text-align: center;
