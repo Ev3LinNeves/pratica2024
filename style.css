@@ -7,6 +7,6 @@ body {
 }
 
 .titulo {
-    font-family: 'Edu Australia VIC WA NT Hand', cursive;
+    font-family: 'Edu AU VIC WA NT Dots', cursive; /* Aplicando a nova fonte */
     color: pink;
 }
