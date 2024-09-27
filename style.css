@@ -1,17 +1,17 @@
 body {
     margin: 0;
     height: 100vh;
-    background-image: url('urubu.jpg'); /* Define a imagem de fundo */
-    background-size: cover; /* Cobre toda a tela */
-    background-position: center; /* Centraliza a imagem */
+    background-image: url('urubu.jpg'); 
+    background-size: cover; 
+    background-position: center; 
 }
 
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50%; /* Ocupa 50% da altura da tela */
-    background-color: rgba(255, 255, 255, 0.7); /* Fundo semitransparente */
+    height: 50%; 
+    background-color: rgba(255, 255, 255, 0.7); 
 }
 
 .titulo {
