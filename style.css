@@ -1,4 +1,5 @@
 body {
+    background-color: #195700;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,6 +9,6 @@ body {
 
 h1 {
     font-family: "Edu AU VIC WA NT Dots", cursive;
-    color: pink;
+    color: rgb(208, 132, 157);
     text-align: center;
 }
